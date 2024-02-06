@@ -1,0 +1,1 @@
+F 12 untuk melihat sumber dari function
